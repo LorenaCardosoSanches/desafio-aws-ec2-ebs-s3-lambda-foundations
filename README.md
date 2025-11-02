@@ -67,4 +67,4 @@ desafio-aws-ec2-ebs-s3-lambda-foundations/
 **Lorena Cardoso Sanches**  
 Desenvolvedora e entusiasta de Cloud Computing ☁️  
 📍 São Bernardo do Campo/SP  
-📧 [lorena.cardoso.s@outlook.com](mailto:lorena.cardoso.s@outlook.com)
+🔗 [linkedin.com/in/lorenacardososanches](https://linkedin.com/in/lorenacardososanches)
