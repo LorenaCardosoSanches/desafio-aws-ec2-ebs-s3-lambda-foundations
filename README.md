@@ -45,12 +45,13 @@ A arquitetura representa um ambiente automatizado de **backup e gerenciamento de
 ---
 
 ## 🗂️ Estrutura do Repositório
+```
 desafio-aws-ec2-ebs-s3-lambda-foundations/
 │
 ├── README.md
 └── images/
 └── Desafio AWS Instâncias EC2.drawio.png
-
+```
 
 ---
 
